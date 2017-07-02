@@ -1,0 +1,19 @@
+{
+  "name": "search-results-scraper",
+  "version": "1.0.0",
+  "description": "Utility for scraping search results via api calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ketansp/search-results-scraper.git"
+  },
+  "author": "Ketan Patil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ketansp/search-results-scraper/issues"
+  },
+  "homepage": "https://github.com/ketansp/search-results-scraper#readme"
+}
