@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/ketansp/search-results-scraper/issues"
   },
-  "homepage": "https://github.com/ketansp/search-results-scraper#readme"
+  "homepage": "https://github.com/ketansp/search-results-scraper#readme",
+  "dependencies": {
+    "async": "2.5.0",
+    "fs": "0.0.1-security",
+    "request": "2.81.0",
+    "underscore": "1.8.3"
+  }
 }
